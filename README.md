@@ -1,3 +1,4 @@
 # NLP_machineLearning
 Nlp work for thesis
-Malicious Bangla Text Content Detection using social networks data main file
+
+That machine learning Algorithom help people to find hate speech based on you input.
